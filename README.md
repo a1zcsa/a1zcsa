@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me email
+- 📫 How to reach me here
 
 <!---
 a1zcsa/a1zcsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
